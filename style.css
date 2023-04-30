@@ -1,0 +1,30 @@
+body {
+  background-color:rgb(228, 228, 228);
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  }
+
+  #perfilFt {
+    width: 350px;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+  }
+
+  
+  .title {
+    font-size: 1.75rem;
+    text-align: center;
+  }
+  .subtitle {
+    text-align: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .box {
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid rgb(0, 0, 0);
+  }
